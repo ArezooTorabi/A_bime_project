@@ -1,0 +1,50 @@
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.AssemblyReference.cache
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.estelam.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.Form1.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.gheymat.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.khesarat.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.last.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.pelakdigar.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.Properties.Resources.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shakhs_sales.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadid.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadid2.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadid3.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadidshomare.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjtakhfif.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjtakhfif2.resources
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.GenerateResource.cache
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.CoreCompileInputs.cache
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\Database1.mdf
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\Database1_log.ldf
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\A_bimeh_khodro.exe.config
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\A_bimeh_khodro.exe
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\A_bimeh_khodro.pdb
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.exe
+C:\Users\Von\source\repos\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.pdb
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\Database1.mdf
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\Database1_log.ldf
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\A_bimeh_khodro.exe.config
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\A_bimeh_khodro.exe
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\bin\Debug\A_bimeh_khodro.pdb
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.AssemblyReference.cache
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.estelam.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.Form1.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.gheymat.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.khesarat.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.last.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.pelakdigar.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.Properties.Resources.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shakhs_sales.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadid.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadid2.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadid3.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjadidshomare.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjtakhfif.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.shjtakhfif2.resources
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.GenerateResource.cache
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.csproj.CoreCompileInputs.cache
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.exe
+C:\Users\Von\Downloads\bime_project-main (1)\bime_project-main\A_bimeh_khodro\A_bimeh_khodro\obj\Debug\A_bimeh_khodro.pdb
